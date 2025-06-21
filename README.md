@@ -1,4 +1,4 @@
-# Scrimba Frontend Career Path
+# Scrimba The Frontend Developer Career Path
 
 **A monorepo that not only contains all projects from the Scrimba Frontend Career Path—but also highlights my growth as a frontend developer.**
 
